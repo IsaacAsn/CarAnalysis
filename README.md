@@ -1,9 +1,11 @@
-Files: Contains raw data from the Autotrader website.
+#File Overview
 
-CleanFiles: Contains two preprocessed files. 
-"cars_comp" contains the data used in the final analysis.
+Files:
+Contains raw data from the Autotrader website.
 
-code: Contains the code used in the project.
-"cleaning" details the process for preprocessing the raw csv files.
-analysis: used for analysis 
+CleanFiles:
+cars_comp: Contains the preprocessed data used in the final analysis.
 
+Code:
+cleaning: Details the preprocessing steps for the raw CSV files.
+analysis: Contains the code used for data analysis.
