@@ -1,4 +1,4 @@
-#File Overview
+File Overview
 
 Files:
 Contains raw data from the Autotrader website.
